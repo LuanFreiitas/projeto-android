@@ -1,7 +1,7 @@
 ## Projeto Android
 
 <div>
-<img src="./.github/preview.png>
+<img src="./.github/preview.png">
 </div>
 
 ## 💻 Projeto
